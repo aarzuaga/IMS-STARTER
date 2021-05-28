@@ -70,11 +70,11 @@ Add additional notes about how to deploy this on a live system
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning.
+We use [GitHUB](http://github.com/) for versioning.
 
 ## Authors
 
-* **Chris Perrins** - *Initial work* - [christophperrins](https://github.com/christophperrins)
+* **Antonio Arzuaga** - *Initial work* - [aarzuaga](https://github.com/aarzuaga)
 
 ## License
 
